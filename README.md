@@ -33,3 +33,7 @@ Projeto desenvolvido para praticar:
 - Lógica com JavaScript
 - Armazenamento local no navegador
 - Versionamento com Git e GitHub
+
+  # Preview
+
+![To-Do List Preview](TO-DO-LIST.png)
